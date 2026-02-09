@@ -4,7 +4,7 @@
 
 This project is an Excel-based analytics dashboard built to explore customer behavior and revenue performance in an e-commerce setting. Using transactional data, I created pivot-driven summaries and visualizations to highlight engagement tiers, product categories, and regional revenue trends.
 
-The dashboard provides a clear snapshot of business performance and customer value distribution, helping stakeholders make data-driven decisions.
+The dashboard provides a clear snapshot of business performance and customer value distribution, enabling stakeholders to make informed, data-driven decisions.
 
 ---
 
@@ -55,7 +55,8 @@ The dataset contains simulated e-commerce transactions with the following fields
 
 The raw transaction data is stored in:
 
-`Dummy_E-commerce_Transactions.c`
+[Ecom_Q4_Analysis.xlsx](https://github.com/user-attachments/files/25179482/Ecom_Q4_Analysis.xlsx)
+
 
 Pivot tables summarize:
 
@@ -84,7 +85,7 @@ Pivot tables summarize:
 * Active customers generate the majority of total revenue.
 * Books and Health categories show strong performance.
 * Revenue varies significantly by region across months, indicating seasonal and geographic patterns.
-* Power Users contribute smaller volume but represent high-value retention opportunities.
+* Power Users contribute a smaller volume but represent high-value retention opportunities.
 
 ---
 
@@ -102,6 +103,7 @@ Pivot tables summarize:
 
 ## 📸 Screenshots
 
+<img width="1211" height="752" alt="Screenshot 2026-02-07 121947" src="https://github.com/user-attachments/assets/9a3a4917-815a-4628-937f-f2961a33aad6" />
 
 
 ---
